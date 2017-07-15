@@ -14,3 +14,4 @@ Strings
 * Palindrome using StringBuffer reverse
 * Pattern matching examples brief idea
 * Checking whether a regex pattern entered is correct by syntax/not
+*Ip address checker with regex-matcging
