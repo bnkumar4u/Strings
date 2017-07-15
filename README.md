@@ -12,3 +12,4 @@ Strings
 
 # 15JULY 2017
 * Palindrome using StringBuffer reverse
+* Pattern matching examples brief idea
