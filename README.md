@@ -8,6 +8,7 @@ Strings
 # 14 JULY 2017
 * Anagram finding using bubble sort and String.equals() method
 * String tokens i.e. spliting sentence into words
+* SubString compare (finding first and last substring in dic order)
 
 # 15JULY 2017
 * Palindrome using StringBuffer reverse
